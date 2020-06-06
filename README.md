@@ -8,5 +8,8 @@ gatsby new gatsby-site https://github.com/gatsbyjs/gatsby-starter-hello-world
 
 Or [view the live demo here](https://gatsby-starter-hello-world-demo.netlify.com/).
 
-## Running in development
+## Running in development env
 `gatsby develop`
+
+## Running in production env
+`gatsby build`
